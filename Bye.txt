@@ -1,3 +1,4 @@
 Good bye
 Some other line
 line numder 3
+another line by user2
